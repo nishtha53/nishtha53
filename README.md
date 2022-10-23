@@ -13,7 +13,9 @@
   <img src="https://komarev.com/ghpvc/?username=nishtha53&style=flat-square&color=blue" alt=""/>
   <h1>
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br/>
+    
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Nishtha;I+am+front-end+Engineer;I+am+open-source+Contributor)](https://git.io/typing-svg)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 </div>
 <div align="center">
@@ -25,7 +27,8 @@
 
 ### :woman_technologist: About Me :
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Nishtha;I+am+front-end+Engineer;I+am+open-source+Contributor)](https://git.io/typing-svg)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
 
 - :telescope: I’m Learning Full stack development and contributing to frontend and backend for building web applications.
 
