@@ -14,8 +14,8 @@
   <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br/><br />
-    
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=60C6F7&width=435&lines=I+am+Nishtha;I+am+front-end+Engineer;I+am+open-source+Contributor" alt="Typing SVG" style="text-align:center"/></a>
+<div align="center">    
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=60C6F7&width=435&lines=I+am+Nishtha;I+am+front-end+Engineer;I+am+open-source+Contributor" alt="Typing SVG"/></a></div>
 </h1>
 </div>
 <div align="center">
