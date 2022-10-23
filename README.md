@@ -13,11 +13,10 @@
   <img src="https://komarev.com/ghpvc/?username=nishtha53&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-<div align="center">
-  <b>Hi there 👋</b>
-</div>
-
+<h1>
+  Hey there 👋
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <!--
 **nishtha53/nishtha53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
