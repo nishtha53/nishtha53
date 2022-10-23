@@ -13,9 +13,9 @@
   <img src="https://komarev.com/ghpvc/?username=nishtha53&style=flat-square&color=blue" alt=""/>
   <h1>
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br/><br />
     
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Nishtha;I+am+front-end+Engineer;I+am+open-source+Contributor)](https://git.io/typing-svg)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Nishtha;I+am+front-end+Engineer;I+am+open-source+Contributor)](https://git.io/typing-svg)
 </h1>
 </div>
 <div align="center">
