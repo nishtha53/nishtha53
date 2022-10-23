@@ -25,7 +25,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Nishtha;I+am+front-end+Engineer;I+am+open-source+Contributor)](https://git.io/typing-svg)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m Learning Full stack development and contributing to frontend and backend for building web applications.
 
@@ -58,8 +58,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nishtha53&theme=dark)](https://git.io/streak-stats)
 ![Nishtha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishtha53&theme=dark&show_icons=true)
-
-<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishtha53&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+
 
