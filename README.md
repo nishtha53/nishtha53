@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-### Hi there 👋
+  <b>Hi there 👋</b>
 </div>
 
 <div id="badges" align="center">
